@@ -13,4 +13,4 @@ Draw.io | ERD | System Modeling
 
 # Documentation
 Project documentation and system diagrams are available in this repository.
-- [KING Laptop Store Website Documentation]([KING-Laptop-Store-Website-System/KING-Laptop-Store-Website-System.pdf])
+- [View KING System Documentation (PDF)](Documentation/KING-System-Documentation.pdf)
