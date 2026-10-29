@@ -12,5 +12,4 @@ A System Analysis and Design project focused on designing a laptop retail websit
 Draw.io | ERD | System Modeling
 
 # Documentation
-Project documentation and system diagrams are available in this repository or you can click the "View KING Laptop Store Website Documentation"
-- [View KING Laptop Store Website Documentation (PDF)](https://docs.google.com/document/d/1VwiHnWk_n-m7OKTsu5JZVxliqosyHcgWJiRiu9cChEE/edit?usp=sharing)
+Project documentation and system diagrams are available in this repository or you can click [View KING Laptop Store Website Documentation (PDF)](https://docs.google.com/document/d/1VwiHnWk_n-m7OKTsu5JZVxliqosyHcgWJiRiu9cChEE/edit?usp=sharing)
