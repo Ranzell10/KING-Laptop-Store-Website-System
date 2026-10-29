@@ -14,4 +14,4 @@ A System Analysis and Design project focused on designing a laptop retail websit
 - System Modeling
 
 # Documentation
-Project documentation and system diagrams are available in this repository or you can click [View KING Laptop Store Website Documentation (PDF)](https://docs.google.com/document/d/1VwiHnWk_n-m7OKTsu5JZVxliqosyHcgWJiRiu9cChEE/edit?usp=sharing)
+Project documentation and system diagrams are available in this repository or you can click [View KING Laptop Store Website Documentation (PDF)](https://docs.google.com/document/d/1VwiHnWk_n-m7OKTsu5JZVxliqosyHcgWJiRiu9cChEE/edit?usp=sharing) & [Draw.io DIagram KING Website](https://drive.google.com/file/d/1JCCLcTp5hvvFj-KjIA2WwDRaxqdBzYRl/view)
