@@ -9,7 +9,9 @@ A System Analysis and Design project focused on designing a laptop retail websit
 - AI-Based Stock Transfer Recommendation (Proposed Feature)
 
 # Tools
-Draw.io | ERD | System Modeling
+- Draw.io
+- ERD
+- System Modeling
 
 # Documentation
 Project documentation and system diagrams are available in this repository or you can click [View KING Laptop Store Website Documentation (PDF)](https://docs.google.com/document/d/1VwiHnWk_n-m7OKTsu5JZVxliqosyHcgWJiRiu9cChEE/edit?usp=sharing)
